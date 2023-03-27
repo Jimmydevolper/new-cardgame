@@ -1,0 +1,47 @@
+classDeck
+    constructor()
+    this.deck=[];
+    this.reset();//add 52 cardsto the deck 
+    this.shuffle();//Shuffle the deck
+//End of constructor
+//
+this.deck=[];
+costsuits=["HEARTS","DIAMONDS","Clubs","SPADES"];
+constvalues=['Ace',2,3,4,5,6,7,8,9,10,'Jack','Queen','King']
+this(suit in suits)
+this(value in values)
+this.deck.push(values[value]+of+suits[suit]);
+//End of Deck
+classCard
+    constructor(card)
+    this.card=card;
+    constcardvalues=Aceofheart;1,"2ofHearts";2,"3ofHearts";3
+    this.value=cardValues[card];
+    varsuits={'Hearts':0,'Diamonds':13,'Clubs':26,'Spades':39}
+this.postion=suits[this.suits]+this.value;//Postion in deck
+const deck=newDeck();
+letcard1,card2,card3,card4,card5,playerCard1,playerCard2;
+functiondeck()
+deck.reset();
+deck.shufle();
+card1=new card(deck.deal());
+card2=new card(deck.deal());
+card3=new card(deck.deal());
+card4=new card(deck.deal());
+card5=new card(deck.deal());
+playerCard1=new card(deck.deal());
+playerCard2=new card(deck.deal());
+playerCard1Diamond13
+playerCard2clubs26
+player2win
+//
+playerCard1spades39
+playercard2hearts0
+player1win
+//
+playerCard1king
+playerCard2Ace
+player2win
+//
+Gameoverfunctionplayer
+console.log(player2winthegame)
